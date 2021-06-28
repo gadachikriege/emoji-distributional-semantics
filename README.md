@@ -1,5 +1,5 @@
 # emoji-distributional-semantics
 
-The semi-clean, formatted dataset can be found in emoji_datasets/all_data.csv
+Measured the similarity/relatedness between different emojis in a Twitter dataset using pointwise mutual information, singular value decomposition, and cosine similarity. Done as part of a final project with one other person for COMP 550 : Natural Language Processing (NLP) at McGill University.
 
-raw_data_formatter.py is only used to clean, format, and save the original data and should not be run unless emoji_datasets/all_data.csv is deleted. 
+For a detailed analysis of what we did, see the report pdf file Measuring Emoji Relatedness with PMI Matrices.pdf
